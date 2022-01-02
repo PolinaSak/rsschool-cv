@@ -5,9 +5,9 @@
 
 **My contacts:**
 
-phone: +375293067644
++ phone: +375293067644
 
-email: mshow7830@gmail.com
++ email: mshow7830@gmail.com
 
 ========
 
