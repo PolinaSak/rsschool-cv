@@ -1,7 +1,7 @@
 
-#gPolina Sak
+# Polina Sak
 
-=======
+*****
 
 **My contacts:**
 
@@ -9,13 +9,13 @@
 
 + email: mshow7830@gmail.com
 
-========
+*******
 
 **Little bit information about me:**
 
 I used to take courses on the basics of html and CSS, I liked the development process, and then after a while I stumbled upon the RS school platform, chose stage 0 to gain experience, make a portfolio and start my career as front-end developer
 
-=========
+********
 
 **My skills:**
 
@@ -24,7 +24,7 @@ I used to take courses on the basics of html and CSS, I liked the development pr
 3. Git, GitHub
 4. VS Code
 
-=========
+********
 
 **Code example:**
 
@@ -51,13 +51,15 @@ I used to take courses on the basics of html and CSS, I liked the development pr
 
 ```
 
-=======
+******
+
+**Work experience:**
 
 I don`t have work experience
 
-========
+******
 
-Courses:
+**Courses:**
 
 course HTML and CSS basics [netology.ru](https://netology.ru "")
 
@@ -69,8 +71,6 @@ course: "Web dezighner: beginning" [wayup.in](https://wayup.in "Описание
 
 + English *I am learning English for 8 years at school*
 
-+ Russian *Native*
++ Russian (*Native*)
 
-+ Belarusian *Native*
-
-========
++ Belarusian (*Native*)
