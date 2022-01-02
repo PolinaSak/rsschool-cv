@@ -65,7 +65,7 @@ course HTML and CSS basics [netology.ru](https://netology.ru "")
 
 course: "Web dezighner: beginning" [wayup.in](https://wayup.in "Описание")
 
-=======
+******
 
 **Languages:**
 
