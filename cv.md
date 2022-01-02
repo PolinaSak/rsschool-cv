@@ -60,7 +60,6 @@ I don`t have work experience
 Courses:
 
 course HTML and CSS basics [netology.ru](https://netology.ru "")
-![certificate]( rsschool-cv/certificate.pdf "certificate")
 
 course: "Web dezighner: beginning" [wayup.in](https://wayup.in "Описание")
 
