@@ -72,4 +72,4 @@ course: "Web dezighner: beginning" [wayup.in](https://wayup.in "Описание
 
 + Russian (*Native*)
 
-+ Belarusian (*Native*)
+Belarusian (*Native*)
